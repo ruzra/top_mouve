@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1068584989728",
+    "project_id": "santeyallaboutique-e8a4a",
+    "storage_bucket": "santeyallaboutique-e8a4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068584989728:android:5faffadc37aa1864ddf845",
+        "android_client_info": {
+          "package_name": "com.ruzra.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068584989728-444983m0ga6p45gvnif6fmg6pu9v44j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJjgYeVfRz01vOj0S7m31Fk4BvmVk54fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068584989728-444983m0ga6p45gvnif6fmg6pu9v44j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068584989728:android:4e428c044a6075d0ddf845",
+        "android_client_info": {
+          "package_name": "com.ruzra.delivery.uzdirectory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068584989728-444983m0ga6p45gvnif6fmg6pu9v44j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJjgYeVfRz01vOj0S7m31Fk4BvmVk54fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068584989728-444983m0ga6p45gvnif6fmg6pu9v44j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
